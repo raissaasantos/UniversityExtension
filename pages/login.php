@@ -1,4 +1,5 @@
 <h2> <b>>CADASTRA-SE AQUI!</b></h2>
+<p>Coloque seu email e crie uma senha logo abaixo</p>
  <form action="">
     <label for="name">Nome</label>
     
