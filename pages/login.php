@@ -1,4 +1,4 @@
-<h1>CADASTRA-SE AQUI</h1>
+<h2> <b>>CADASTRA-SE AQUI!</b></h2>
  <form action="">
     <label for="name">Nome</label>
     
